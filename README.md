@@ -1,5 +1,5 @@
 # Loan Data Analysis
-
+<h4>Projekti në lëndën "Përgaditja dhe vizualizimi i të dhënave", Prof: Mërgim Hoti.</h4>
 <h4>Përmbledhje e Projektit</h4>
 Ky projekt fokusohet në analizimin dhe përpunimin e një dataset-i për dhënien e kredive. Qëllimet kryesore janë pastrimi dhe transformimi i të dhënave, përzgjedhja e veçorive dhe aplikimi i Analizës së Komponentëve Kryesorë (PCA) për të reduktuar dimensionet e hapësirës së veçorive. Duke vepruar kështu, synojmë të përmirësojmë efikasitetin e modelimit dhe analizës së të dhënave.
 
