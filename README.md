@@ -6,7 +6,8 @@ Ky projekt fokusohet në analizimin dhe përpunimin e një dataset-i për dhëni
 <h4>Karakteristikat Kryesore</h4>
 
 
-Dataset-i përmban kolonat e mëposhtme:
+## Dataset-i përmban kolonat e mëposhtme:
+
 
 <strong>LoanID</strong>: Identifikues unik për çdo aplikim për kredi.<br>
 <strong>ApplicantID</strong>: Identifikues unik për çdo aplikant.<br>
@@ -22,4 +23,5 @@ Dataset-i përmban kolonat e mëposhtme:
 <strong>LoanTerm</strong>: Kohëzgjatja e kredisë.<br>
 <strong>LoanIntRate</strong>: Norma e interesit për kredinë.<br>
 <strong>LoanPurpose</strong>: Qëllimi për të cilin merret kredia.<br>
-<strong>LoanApproved</strong>: Nëse kredia është miratuar apo jo.
+<strong>LoanApproved</strong>: Nëse kredia është miratuar apo jo. <br>
+
