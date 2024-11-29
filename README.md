@@ -5,11 +5,7 @@ Ky projekt fokusohet në analizimin dhe përpunimin e një dataset-i për dhëni
 
 <h4>Karakteristikat Kryesore</h4>
 
-Pastrimi dhe Imputimi i të Dhënave: Trajtimi i vlerave të munguara dhe konvertimi i të dhënave kategorike në një format të përdorshëm.
-<br>Kodimi i Veçorive: Transformimi i veçorive kategorike në vlera numerike për analizë.
-<br>Përzgjedhja e Veçorive: Identifikimi i veçorive më të rëndësishme që do të ruhen për modelim.
-<br>Reduktimi i Dimensioneve: Përdorimi i PCA për të reduktuar numrin e veçorive duke ruajtur informacionin e rëndësishëm.
-<h4>Përshkrimi i të Dhënave</h4>
+
 Dataset-i përmban kolonat e mëposhtme:
 
 <strong>LoanID</strong>: Identifikues unik për çdo aplikim për kredi.<br>
