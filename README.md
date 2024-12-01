@@ -1,5 +1,5 @@
 # Loan Data Analysis
-## Projekti në lëndën "Përgaditja dhe vizualizimi i të dhënave", Prof: Mërgim Hoti. 
+## Ky repository permban projektin semestral në lëndën "Përgaditja dhe vizualizimi i të dhënave", Prof: Mërgim Hoti. 
 #Përmbledhje e Projektit #
 
 
