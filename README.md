@@ -24,4 +24,4 @@ Ky repository përmban projektin semestral në lëndën "Përgatitja dhe Vizuali
 <strong>LoanApproved</strong>: Nëse kredia është miratuar apo jo. <br>
 
 
-y projekt është një mundësi për të demonstruar aftësitë në përgatitjen dhe vizualizimin e të dhënave, duke krijuar modele dhe përmbledhje që mund të ndihmojnë në vendimmarrjen për kreditë.
+Ky projekt është një mundësi për të demonstruar aftësitë në përgatitjen dhe vizualizimin e të dhënave, duke krijuar modele dhe përmbledhje që mund të ndihmojnë në vendimmarrjen për kreditë.
