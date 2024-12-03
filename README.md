@@ -30,6 +30,6 @@ Projekti përdor Python për analizën dhe vizualizimin, duke përfshirë biblio
 #
 ##Faza e dyte
 #
-Detektimi i përjashtuesit.
-Mënjanimi i zbulimeve jo të sakta
-Eksplorimi i te dhënave: statistika përmbledhëse, multivariante.
+<br>Detektimi i përjashtuesit.<br>
+Mënjanimi i zbulimeve jo të sakta<br>
+Eksplorimi i te dhënave: statistika përmbledhëse, multivariante.<br>
