@@ -1,8 +1,8 @@
 ## Loan Data Analysis
-Emri i projektit: Loan Data Analysis
-Lënda: Përgatitja dhe Vizualizimi i të Dhënave
-Mentor: Prof. Mërgim Hoti
-Universiteti: [Universiteti i Prishtinës "Hasan Prishtina"]
+Emri i projektit: Loan Data Analysis <br>
+Lënda: Përgatitja dhe Vizualizimi i të Dhënave<br>
+Mentor: Prof. Mërgim Hoti<br>
+Universiteti: Universiteti i Prishtinës "Hasan Prishtina"<br>
 Repository URL: https://github.com/kaltrinabaliu/PergatitjaDheVizualizimiiTeDhenave
 
 ### Përmbledhja e projektit
