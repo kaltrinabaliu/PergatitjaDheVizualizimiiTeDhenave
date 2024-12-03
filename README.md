@@ -1,4 +1,4 @@
-# Loan Data Analysis
+### Loan Data Analysis
 Ky repository përmban projektin semestral në lëndën "Përgatitja dhe Vizualizimi i të Dhënave", nën mentorimin e Prof. Mërgim Hoti. Projekti fokusohet në analizën e të dhënave të kredive duke përdorur teknika përgatitore dhe vizualizime për të nxjerrë përfundime të vlefshme.
 #Përmbledhje e Projektit #
 
@@ -29,3 +29,5 @@ Ky projekt është një mundësi për të demonstruar aftësitë në përgatitje
 Projekti përdor Python për analizën dhe vizualizimin, duke përfshirë biblioteka si Pandas, Matplotlib, dhe Seaborn.
 |
 ##Faza e dyte
+
+##
