@@ -27,3 +27,5 @@ Ky repository përmban projektin semestral në lëndën "Përgatitja dhe Vizuali
 Ky projekt është një mundësi për të demonstruar aftësitë në përgatitjen dhe vizualizimin e të dhënave, duke krijuar modele dhe përmbledhje që mund të ndihmojnë në vendimmarrjen për kreditë.
 
 Projekti përdor Python për analizën dhe vizualizimin, duke përfshirë biblioteka si Pandas, Matplotlib, dhe Seaborn.
+|
+##Faza e dyte
