@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a2e1ad8f-ead5-49b7-9a15-b17c7e52be35)
+
 ## Loan Data Analysis
 Emri i projektit: Loan Data Analysis <br>
 Lënda: Përgatitja dhe Vizualizimi i të Dhënave<br>
@@ -32,13 +34,13 @@ Projekti përdor Python për analizën dhe vizualizimin, duke përfshirë biblio
 
 ### Faza e parë
 
-Para-procesimi për përgatitjen e të dhënave për analizë.<br>
-Mbledhja e të dhënave, definimi i tipeve të dhënave, kualiteti i të dhënave.<br>
-Integrimi, agregimi, mostrimi, pastrimi, identifikimi dhe strategjia e trajtimit për vlerat e zbrazëta.<br>
-Reduktimi i dimensionit, zgjedhja e nën bashkësisë së vetive, krijimi i vetive, diskretizimi dhe binarizimi, transformimi.<br>
+  1. Para-procesimi për përgatitjen e të dhënave për analizë.<br>
+  2. Mbledhja e të dhënave, definimi i tipeve të dhënave, kualiteti i të dhënave.<br>
+  3. Integrimi, agregimi, mostrimi, pastrimi, identifikimi dhe strategjia e trajtimit për vlerat e zbrazëta.<br>
+  4. Reduktimi i dimensionit, zgjedhja e nën bashkësisë së vetive, krijimi i vetive, diskretizimi dhe binarizimi, transformimi.<br>
 
 ### Faza e dytë
 
-Detektimi i përjashtuesit.<br>
-Mënjanimi i zbulimeve jo të sakta<br>
-Eksplorimi i te dhënave: statistika përmbledhëse, multivariante.<br>
+  1. Detektimi i përjashtuesit.<br>
+  2. Mënjanimi i zbulimeve jo të sakta<br>
+  3. Eksplorimi i te dhënave: statistika përmbledhëse, multivariante.<br>
