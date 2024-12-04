@@ -28,13 +28,17 @@ Ky repository përmban projektin semestral në lëndën "Përgatitja dhe Vizuali
 
 
 Ky projekt përdor këtë dataset për të ndihmuar në krijimin e modeleve dhe përmbledhjeve të të dhënave që mund të ndihmojnë në analizimin dhe vendimmarrjen për kreditë.
-
-### Faza e pare
-
 Projekti përdor Python për analizën dhe vizualizimin, duke përfshirë biblioteka si Pandas, Matplotlib, dhe Seaborn.
 
-### Faza e dyte
+### Faza e parë
 
-<br>Detektimi i përjashtuesit.<br>
+Para-procesimi për përgatitjen e të dhënave për analizë.<br>
+Mbledhja e të dhënave, definimi i tipeve të dhënave, kualiteti i të dhënave.<br>
+Integrimi, agregimi, mostrimi, pastrimi, identifikimi dhe strategjia e trajtimit për vlerat e zbrazëta.<br>
+Reduktimi i dimensionit, zgjedhja e nën bashkësisë së vetive, krijimi i vetive, diskretizimi dhe binarizimi, transformimi.<br>
+
+### Faza e dytë
+
+Detektimi i përjashtuesit.<br>
 Mënjanimi i zbulimeve jo të sakta<br>
 Eksplorimi i te dhënave: statistika përmbledhëse, multivariante.<br>
