@@ -10,7 +10,7 @@ Repository URL: https://github.com/kaltrinabaliu/PergatitjaDheVizualizimiiTeDhen
 ### Përmbledhja e projektit
 Ky repository përmban projektin semestral në lëndën "Përgatitja dhe Vizualizimi i të Dhënave", nën mentorimin e Prof. Mërgim Hoti. Projekti fokusohet në analizën e të dhënave të kredive duke përdorur teknika përgatitore dhe vizualizime për të nxjerrë përfundime të vlefshme që mund të ndihmojnë në vendimmarrjen për kreditë.
 
-### Dataset
+### Dataset i perdorur per analizim
 
 <strong>LoanID</strong>: Identifikues unik për çdo aplikim për kredi.<br>
 <strong>ApplicantID</strong>: Identifikues unik për çdo aplikant.<br>
