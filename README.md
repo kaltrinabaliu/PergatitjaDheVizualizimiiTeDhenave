@@ -5,10 +5,13 @@ Emri i projektit: Loan Data Analysis <br>
 Lënda: Përgatitja dhe Vizualizimi i të Dhënave<br>
 Mentor: Prof. Mërgim Hoti<br>
 Universiteti: Universiteti i Prishtinës "Hasan Prishtina"<br>
-Repository URL: https://github.com/kaltrinabaliu/PergatitjaDheVizualizimiiTeDhenave
+
 
 ### Përmbledhja e projektit
-Ky repository përmban projektin semestral në lëndën "Përgatitja dhe Vizualizimi i të Dhënave", nën mentorimin e Prof. Mërgim Hoti. Projekti fokusohet në analizën e të dhënave të kredive duke përdorur teknika përgatitore dhe vizualizime për të nxjerrë përfundime të vlefshme që mund të ndihmojnë në vendimmarrjen për kreditë.
+
+Ky repository përmban projektin semestral për lëndën "Përgatitja dhe Vizualizimi i të Dhënave," i realizuar në tri faza nën mentorimin e Prof. Mërgim Hoti, në kuadër të semestrit. Projekti ka për qëllim analizimin e të dhënave të kredive, duke përdorur teknika të avancuara të përgatitjes dhe vizualizimit të të dhënave. Përmes këtij projekti, janë aplikuar metoda të ndryshme për të pastruar dhe strukturuar të dhënat, duke përfshirë trajtimin e vlerave të humbura dhe anomalive.
+
+Përveç përgatitjes, janë zhvilluar vizualizime interaktive që ndihmojnë në identifikimin e modeleve dhe trendeve të rëndësishme. Përfundimet e nxjerra nga analiza synojnë të përmirësojnë proceset e vendimmarrjes në sektorin e kredive, duke ndihmuar në vlerësimin më të saktë të riskut dhe përcaktimin e strategjive të qëndrueshme financiare. Projekti shërben si një shembull praktik i aplikimit të shkencës së të dhënave në një kontekst të jetës reale
 
 ### Dataset i perdorur per analizim
 
