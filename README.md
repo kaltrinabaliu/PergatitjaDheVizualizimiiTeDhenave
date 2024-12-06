@@ -1,19 +1,20 @@
 ![image](https://github.com/user-attachments/assets/a2e1ad8f-ead5-49b7-9a15-b17c7e52be35)
 
-## Loan Data Analysis
+<h1>Analizë e të dhënave të kredive</h1>
 Emri i projektit: Loan Data Analysis <br>
-Lënda: Përgatitja dhe Vizualizimi i të Dhënave<br>
-Mentor: Prof. Mërgim Hoti<br>
-Universiteti: Universiteti i Prishtinës "Hasan Prishtina"<br>
+Lënda: Përgatitja dhe Vizualizimi i të Dhënave <br>
+Mentor: Prof. Mërgim Hoti <br>
+Universiteti: Universiteti i Prishtinës "Hasan Prishtina" <br>
+Fakulteti: Fakulteti i Inxhinierisë Elektrike dhe Kompjuterike, Programi Kompjuterik, 2024/25
 
 
-### Përmbledhja e projektit
+<h2>Përmbledhja e projektit</h2>
 
 Ky repository përmban projektin semestral për lëndën "Përgatitja dhe Vizualizimi i të Dhënave," i realizuar në tri faza nën mentorimin e Prof. Mërgim Hoti, në kuadër të semestrit. Projekti ka për qëllim analizimin e të dhënave të kredive, duke përdorur teknika të avancuara të përgatitjes dhe vizualizimit të të dhënave. Përmes këtij projekti, janë aplikuar metoda të ndryshme për të pastruar dhe strukturuar të dhënat, duke përfshirë trajtimin e vlerave të humbura dhe anomalive.
 
 Përveç përgatitjes, janë zhvilluar vizualizime interaktive që ndihmojnë në identifikimin e modeleve dhe trendeve të rëndësishme. Përfundimet e nxjerra nga analiza synojnë të përmirësojnë proceset e vendimmarrjes në sektorin e kredive, duke ndihmuar në vlerësimin më të saktë të riskut dhe përcaktimin e strategjive të qëndrueshme financiare. Projekti shërben si një shembull praktik i aplikimit të shkencës së të dhënave në një kontekst të jetës reale
 
-### Dataset i perdorur per analizim
+<h2>Dataset i perdorur per analizim</h2>
 
 <strong>LoanID</strong>: Identifikues unik për çdo aplikim për kredi.<br>
 <strong>ApplicantID</strong>: Identifikues unik për çdo aplikant.<br>
@@ -35,7 +36,7 @@ Përveç përgatitjes, janë zhvilluar vizualizime interaktive që ndihmojnë n�
 Ky projekt përdor këtë dataset për të ndihmuar në krijimin e modeleve dhe përmbledhjeve të të dhënave që mund të ndihmojnë në analizimin dhe vendimmarrjen për kreditë.
 Projekti përdor Python për analizën dhe vizualizimin, duke përfshirë biblioteka si Pandas, Matplotlib, dhe Seaborn.
 
-### Faza e parë
+<h2>Faza e parë</h2> 
 
   1. Para-procesimi për përgatitjen e të dhënave për analizë.<br>
   2. Mbledhja e të dhënave, definimi i tipeve të dhënave, kualiteti i të dhënave.<br>
