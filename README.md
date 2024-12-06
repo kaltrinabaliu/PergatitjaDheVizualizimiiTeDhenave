@@ -1,10 +1,11 @@
 ![image](https://github.com/user-attachments/assets/a2e1ad8f-ead5-49b7-9a15-b17c7e52be35)
 
-## Loan Data Analysis
+<1>Loan Data Analysis<h1>
 Emri i projektit: Loan Data Analysis <br>
-Lënda: Përgatitja dhe Vizualizimi i të Dhënave<br>
-Mentor: Prof. Mërgim Hoti<br>
-Universiteti: Universiteti i Prishtinës "Hasan Prishtina"<br>
+Lënda: Përgatitja dhe Vizualizimi i të Dhënave <br>
+Mentor: Prof. Mërgim Hoti <br>
+Universiteti: Universiteti i Prishtinës "Hasan Prishtina" <br>
+Fakulteti: Fakulteti i Inxhinierisë Elektrike dhe Kompjuterike, Programi Kompjuterik, 2024/25
 
 
 ### Përmbledhja e projektit
