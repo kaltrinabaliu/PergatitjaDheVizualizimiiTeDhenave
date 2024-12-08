@@ -49,7 +49,12 @@ Projekti përdor Python për analizën dhe vizualizimin, duke përfshirë biblio
   3. Integrimi, agregimi, mostrimi, pastrimi, identifikimi dhe strategjia e trajtimit për vlerat e zbrazëta.<br>
   4. Reduktimi i dimensionit, zgjedhja e nën bashkësisë së vetive, krijimi i vetive, diskretizimi dhe binarizimi, transformimi.<br>
 
-Gjatë fazës së parë të projektit, u krye përgatitja e dataset-it për analizë përmes para-procesimit dhe pastrimit të të dhënave. Fillimisht, u analizua struktura dhe cilësia e dataset-it, duke trajtuar vlerat e zbrazëta përmes metodave si zëvendësimi ose heqja e tyre. U përcaktuan tipet e të dhënave dhe kategorizuan veçoritë, ndërsa reduktimi i dimensionit u realizua duke përzgjedhur kolonat më të rëndësishme. Gjithashtu, u krijuan veçori të reja dhe u zbatuan transformime si diskretizimi dhe normalizimi për standardizimin e dataset-it. 
+Gjatë fazës së parë të projektit, u krye përgatitja e dataset-it për analizë përmes para-procesimit dhe pastrimit të të dhënave. Fillimisht, u analizua struktura dhe cilësia e dataset-it, duke trajtuar vlerat e zbrazëta përmes metodave si zëvendësimi ose heqja e tyre. U përcaktuan tipet e të dhënave dhe kategorizuan veçoritë, ndërsa reduktimi i dimensionit u realizua duke përzgjedhur kolonat më të rëndësishme. Gjithashtu, u krijuan veçori të reja dhe u zbatuan transformime si diskretizimi dhe normalizimi për standardizimin e dataset-it. <br>
+
+<b>Rezultatet e Faza së Parë</b><br>
+Dataseti u pastrua dhe u strukturua në mënyrë që të jetë gati për analizat e mëtejshme, duke u fokusuar në cilësinë dhe standardizimin e tij.
+
+
 
 ### Faza e dytë
 
@@ -57,5 +62,21 @@ Gjatë fazës së parë të projektit, u krye përgatitja e dataset-it për anal
   2. Mënjanimi i zbulimeve jo të sakta<br>
   3. Eksplorimi i te dhënave: statistika përmbledhëse, multivariante.<br>
 
+<b>Rezultatet e Faza së Dytë</b><br>
+U kuptuan marrëdhëniet mes variablave dhe u identifikuan modele të rëndësishme që ndihmojnë në analizat dhe vizualizimet e mëtejshme.
+
+
+
 
 Në fazën e dytë të projektit, u fokusua në analizimin dhe pastrimin më të thellë të të dhënave. Fillimisht, u realizua detektimi i përjashtuesve (outliers), duke përdorur metoda statistikore për të identifikuar dhe eliminuar vlerat që mund të dëmtonin analizën. Më pas, u mënjanuan zbulimet jo të sakta dhe u trajtuan të dhënat që mund të kishin ndikim negativ në modelet analitike. U realizua eksplorimi i të dhënave përmes statistika përmbledhëse dhe analize multivariante për të kuptuar më mirë marrëdhëniet ndërmjet variablave dhe për të identifikuar mundësi të ndryshimeve dhe modeleve të rëndësishme. 
+
+
+<h2>Përdorimi</h2>
+git clone https://github.com/kaltrinabaliu/PergatitjaDheVizualizimiiTeDhenave.git<br>
+
+<h3>Instaloni librarite e nevojshme</h3><br>
+
+pip install re pandas numpy seaborn matplotlib scikit-learn ipython<br>
+
+Run the project
+
