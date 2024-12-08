@@ -139,7 +139,7 @@ Name: LoanAmount, dtype: float64<br>
 Kjo pjesë përfshin kryerjen e testeve ANOVA dhe T-test për të analizuar diferencat midis grupeve të ndryshme bazuar në të dhënat e aplikantëve. Këto teste ndihmojnë në vlerësimin e rëndësisë statistikore të diferencave midis grupeve.
 ![image](https://github.com/user-attachments/assets/79934e39-a182-4ffe-bf8e-cf20daa47401)<br>
 
-Rezultati ANOVA - p-value: 0.19681765332366513
+Rezultati ANOVA - p-value: 0.19681765332366513<br>
 ![image](https://github.com/user-attachments/assets/ad09b6fd-1969-4116-b909-29d9922fdec8)<br>
 
 T-statistic: -0.13768594006621337, P-value: 0.8904899061666572
