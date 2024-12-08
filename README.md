@@ -54,6 +54,11 @@ Gjatë fazës së parë të projektit, u krye përgatitja e dataset-it për anal
 <b>Rezultatet e Fazës së Parë</b><br>
 Dataseti u pastrua dhe u strukturua në mënyrë që të jetë gati për analizat e mëtejshme, duke u fokusuar në cilësinë dhe standardizimin e tij.
 
+![image](https://github.com/user-attachments/assets/28433d02-65d9-452a-bd26-26c040ef4539) <br>
+![image](https://github.com/user-attachments/assets/94827ab0-142b-435f-875c-19a916f30974) <br>
+
+
+
 
 
 ### Faza e dytë
