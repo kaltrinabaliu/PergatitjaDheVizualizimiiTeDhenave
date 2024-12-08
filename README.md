@@ -76,5 +76,7 @@ git clone https://github.com/kaltrinabaliu/PergatitjaDheVizualizimiiTeDhenave.gi
 
 <h3>Instaloni librarite e nevojshme</h3><br>
 
-pip install re pandas numpy seaborn matplotlib scikit-learn ipython
+pip install re pandas numpy seaborn matplotlib scikit-learn ipython<br>
+
+Run the project
 
