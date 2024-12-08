@@ -102,28 +102,28 @@ Kjo pjesë e dokumentit përqendrohet në identifikimin dhe analizimin e outlier
 
 ### Identifikimi i Outlier-eve
 
-Përdoren grafikët box plot dhe KDE për të identifikuar outlier-et në kolonat numerike si LoanAmount dhe ApplicantIncome. Këto vizualizime ndihmojnë në identifikimin e vlerave që janë shumë më të larta ose më të ulëta se shumica e të dhënave.
-![image](https://github.com/user-attachments/assets/3be18974-8aa0-4fbb-b6d3-26360bd85dff)
+Përdoren grafikët box plot dhe KDE për të identifikuar outlier-et në kolonat numerike si LoanAmount dhe ApplicantIncome. Këto vizualizime ndihmojnë në identifikimin e vlerave që janë shumë më të larta ose më të ulëta se shumica e të dhënave. <br>
+![image](https://github.com/user-attachments/assets/3be18974-8aa0-4fbb-b6d3-26360bd85dff) <br>
 
 ### Analiza para dhe pas pastrimit
 
 Dokumenti përfshin një krahasim të shpërndarjes së të dhënave para dhe pas pastrimit të outlier-eve. Kjo ndihmon në vlerësimin e ndikimit të outlier-eve në analizat e të dhënave dhe në rezultatet përfundimtare.
 
-![image](https://github.com/user-attachments/assets/766564da-a715-4673-91f7-647d9893cdf1)
-![image](https://github.com/user-attachments/assets/8317a1c7-25b2-47f9-aac0-02621ad42f22)
-![image](https://github.com/user-attachments/assets/c9284df2-18b0-48a3-9691-a60a7b925a77)
-![image](https://github.com/user-attachments/assets/beac1d5a-66df-4194-932b-bf622c397d04)
-![image](https://github.com/user-attachments/assets/0eb6d016-9b82-47c3-a2db-bdf8511cfb58)
-![image](https://github.com/user-attachments/assets/03348777-b983-4c94-a24e-8ed27914ab97)
+![image](https://github.com/user-attachments/assets/766564da-a715-4673-91f7-647d9893cdf1) <br>
+![image](https://github.com/user-attachments/assets/8317a1c7-25b2-47f9-aac0-02621ad42f22) <br>
+![image](https://github.com/user-attachments/assets/c9284df2-18b0-48a3-9691-a60a7b925a77) <br>
+![image](https://github.com/user-attachments/assets/beac1d5a-66df-4194-932b-bf622c397d04) <br>
+![image](https://github.com/user-attachments/assets/0eb6d016-9b82-47c3-a2db-bdf8511cfb58) <br>
+![image](https://github.com/user-attachments/assets/03348777-b983-4c94-a24e-8ed27914ab97) <br>
 
 ### Analiza e Korrellacionit
 
-Kjo pjesë përfshin përdorimin e një heatmap për të vizualizuar korrelacionin midis kolonave numerike. Korrrelacioni ndihmon në identifikimin e marrëdhënieve midis variablave, duke treguar se si ndryshimi në një variabël ndikon në një tjetër.
+Kjo pjesë përfshin përdorimin e një heatmap për të vizualizuar korrelacionin midis kolonave numerike. Korrrelacioni ndihmon në identifikimin e marrëdhënieve midis variablave, duke treguar se si ndryshimi në një variabël ndikon në një tjetër. <br>
 ![image](https://github.com/user-attachments/assets/ec2e0560-3d7a-4cdd-9f24-b05da76df00a)
 
 ### Scatter Matrix
 
-Funksioni "plotScatterMatrix" krijon një matricë scatter për të vizualizuar marrëdhëniet midis karakteristikave numerike në dataset. Kjo ndihmon në identifikimin e modeleve dhe marrëdhënieve të mundshme midis variablave.
+Funksioni "plotScatterMatrix" krijon një matricë scatter për të vizualizuar marrëdhëniet midis karakteristikave numerike në dataset. Kjo ndihmon në identifikimin e modeleve dhe marrëdhënieve të mundshme midis variablave. <br>
 ![image](https://github.com/user-attachments/assets/05ddfe78-7ecc-44df-ac02-026b58003e8d)
 
 ### Statistika për Kolonat Numerike
@@ -162,17 +162,17 @@ ANOVA F-statistic: 0.3407759020275155, P-value: 0.5593877516162054
 ### Statistika Përmbledhëse
 
 Kjo pjesë ofron statistika përmbledhëse për kolonat numerike si ApplicantIncome, LoanAmount, dhe LoanIntRate. Ajo përfshin të dhëna si mesatarja, median, devijimi standard, minimumi dhe maksimumi, duke ofruar një pasqyrë të plotë mbi karakteristikat e të dhënave.
-![image](https://github.com/user-attachments/assets/9b117b98-91da-441d-ba0d-5c5ef2c77378)<br>
+![image](https://github.com/user-attachments/assets/9b117b98-91da-441d-ba0d-5c5ef2c77378) <br>
 ### Statistikat përmbledhëse për kolonat numerike
-![image](https://github.com/user-attachments/assets/8cda8c14-0435-4bed-8c8d-5a094483321a)<br>
+![image](https://github.com/user-attachments/assets/8cda8c14-0435-4bed-8c8d-5a094483321a) <br>
 
 ### Analiza e Korrellacionit ne mes kolonave te caktuara numerike
-![image](https://github.com/user-attachments/assets/d7f4eac2-b03f-4593-a0c0-4524c29dd992)<br>
-![image](https://github.com/user-attachments/assets/aa5d73c5-1a28-4630-95c7-5232fa231bd9)<br>
+![image](https://github.com/user-attachments/assets/d7f4eac2-b03f-4593-a0c0-4524c29dd992) <br>
+![image](https://github.com/user-attachments/assets/aa5d73c5-1a28-4630-95c7-5232fa231bd9) <br>
 
 
 <h2>Përdorimi</h2>
-git clone https://github.com/kaltrinabaliu/PergatitjaDheVizualizimiiTeDhenave.git<br>
+git clone https://github.com/kaltrinabaliu/PergatitjaDheVizualizimiiTeDhenave.git <br>
 
 <h3>Instaloni librarite e nevojshme</h3><br>
 
