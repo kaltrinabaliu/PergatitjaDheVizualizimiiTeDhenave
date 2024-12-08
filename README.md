@@ -1,9 +1,9 @@
 ![image](https://github.com/user-attachments/assets/a2e1ad8f-ead5-49b7-9a15-b17c7e52be35)
 
 <h1>Analizë e të dhënave të kredive</h1>
-Emri i projektit: Loan Data Analysis <br>
+Emri i projektit: Analizë e të dhënave të kredive <br>
 Lënda: Përgatitja dhe Vizualizimi i të Dhënave <br>
-Mentor: Prof. Mërgim Hoti <br>
+Mentor: Prof.Dr.Mërgim Hoti <br>
 Universiteti: Universiteti i Prishtinës "Hasan Prishtina" <br>
 Fakulteti: Fakulteti i Inxhinierisë Elektrike dhe Kompjuterike, Programi Kompjuterik, 2024/25
 
