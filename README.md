@@ -137,33 +137,33 @@ Name: LoanAmount, dtype: float64<br>
 ### Testet Statistike
 
 Kjo pjesë përfshin kryerjen e testeve ANOVA dhe T-test për të analizuar diferencat midis grupeve të ndryshme bazuar në të dhënat e aplikantëve. Këto teste ndihmojnë në vlerësimin e rëndësisë statistikore të diferencave midis grupeve.
-![image](https://github.com/user-attachments/assets/79934e39-a182-4ffe-bf8e-cf20daa47401)
+![image](https://github.com/user-attachments/assets/79934e39-a182-4ffe-bf8e-cf20daa47401)<br>
 
 Rezultati ANOVA - p-value: 0.19681765332366513
-![image](https://github.com/user-attachments/assets/ad09b6fd-1969-4116-b909-29d9922fdec8)
+![image](https://github.com/user-attachments/assets/ad09b6fd-1969-4116-b909-29d9922fdec8)<br>
 
 T-statistic: -0.13768594006621337, P-value: 0.8904899061666572
 
 ### Skewness dhe Kurtosis
 
 Këtu llogariten asimetria (skewness) dhe kurtosis për LoanAmount. Këto metrika ndihmojnë në kuptimin e formës së shpërndarjes së të dhënave, duke treguar nëse shpërndarja është e përkulur në njërën anë ose ka tail të gjatë.
-![image](https://github.com/user-attachments/assets/cd505586-7996-4e6c-b9af-03eecc9c6d7a)
+![image](https://github.com/user-attachments/assets/cd505586-7996-4e6c-b9af-03eecc9c6d7a)<br>
 
 Asimetri: 0.29208597542419057<br>
 Kurtosi: 0.22453439515223206<br>
-![image](https://github.com/user-attachments/assets/bf64504d-b435-4a48-b6a8-f5c09d11ef33)
+![image](https://github.com/user-attachments/assets/bf64504d-b435-4a48-b6a8-f5c09d11ef33)<br>
 ANOVA F-statistic: 0.3407759020275155, P-value: 0.5593877516162054
 
 ### Statistika Përmbledhëse
 
 Kjo pjesë ofron statistika përmbledhëse për kolonat numerike si ApplicantIncome, LoanAmount, dhe LoanIntRate. Ajo përfshin të dhëna si mesatarja, median, devijimi standard, minimumi dhe maksimumi, duke ofruar një pasqyrë të plotë mbi karakteristikat e të dhënave.
-![image](https://github.com/user-attachments/assets/9b117b98-91da-441d-ba0d-5c5ef2c77378)
+![image](https://github.com/user-attachments/assets/9b117b98-91da-441d-ba0d-5c5ef2c77378)<br>
 ### Statistikat përmbledhëse për kolonat numerike
-![image](https://github.com/user-attachments/assets/8cda8c14-0435-4bed-8c8d-5a094483321a)
+![image](https://github.com/user-attachments/assets/8cda8c14-0435-4bed-8c8d-5a094483321a)<br>
 
 ### Analiza e Korrellacionit ne mes kolonave te caktuara numerike
-![image](https://github.com/user-attachments/assets/d7f4eac2-b03f-4593-a0c0-4524c29dd992)
-![image](https://github.com/user-attachments/assets/aa5d73c5-1a28-4630-95c7-5232fa231bd9)
+![image](https://github.com/user-attachments/assets/d7f4eac2-b03f-4593-a0c0-4524c29dd992)<br>
+![image](https://github.com/user-attachments/assets/aa5d73c5-1a28-4630-95c7-5232fa231bd9)<br>
 
 
 <h2>Përdorimi</h2>
