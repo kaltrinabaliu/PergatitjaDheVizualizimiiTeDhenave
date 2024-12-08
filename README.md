@@ -72,5 +72,9 @@ Në fazën e dytë të projektit, u fokusua në analizimin dhe pastrimin më të
 
 
 <h2>Përdorimi</h2>
-git clone https://github.com/username/credit-data-analysis.git
+git clone https://github.com/kaltrinabaliu/PergatitjaDheVizualizimiiTeDhenave.git<br>
+
+<h3>Instaloni librarite e nevojshme</h3><br>
+
+pip install re pandas numpy seaborn matplotlib scikit-learn ipython
 
