@@ -91,7 +91,7 @@ Këtu, krijohen grafikë të tipit KDE (Kernel Density Estimate) dhe box plot p�
 ![image](https://github.com/user-attachments/assets/edb9c058-0295-435b-a297-757b9804ff19)
 ![image](https://github.com/user-attachments/assets/391807e9-4565-438b-9644-0051f4df4c7e)
 
-### Outliers (Të Jashtme)
+### Outliers 
 
 Kjo pjesë e dokumentit përqendrohet në identifikimin dhe analizimin e outlier-eve në të dhënat e përfshira në DataFrame. Outlier-ët janë vlera që ndahen ndjeshëm nga shumica e të dhënave dhe mund të ndikojnë në rezultatet e analizave statistikore.
 
