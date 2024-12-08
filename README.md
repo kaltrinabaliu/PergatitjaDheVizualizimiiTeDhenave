@@ -51,7 +51,7 @@ Projekti përdor Python për analizën dhe vizualizimin, duke përfshirë biblio
 
 Gjatë fazës së parë të projektit, u krye përgatitja e dataset-it për analizë përmes para-procesimit dhe pastrimit të të dhënave. Fillimisht, u analizua struktura dhe cilësia e dataset-it, duke trajtuar vlerat e zbrazëta përmes metodave si zëvendësimi ose heqja e tyre. U përcaktuan tipet e të dhënave dhe kategorizuan veçoritë, ndërsa reduktimi i dimensionit u realizua duke përzgjedhur kolonat më të rëndësishme. Gjithashtu, u krijuan veçori të reja dhe u zbatuan transformime si diskretizimi dhe normalizimi për standardizimin e dataset-it. <br>
 
-<b>Rezultatet e Faza së Parë</b><br>
+<b>Rezultatet e Fazës së Parë</b><br>
 Dataseti u pastrua dhe u strukturua në mënyrë që të jetë gati për analizat e mëtejshme, duke u fokusuar në cilësinë dhe standardizimin e tij.
 
 
@@ -62,7 +62,7 @@ Dataseti u pastrua dhe u strukturua në mënyrë që të jetë gati për analiza
   2. Mënjanimi i zbulimeve jo të sakta<br>
   3. Eksplorimi i te dhënave: statistika përmbledhëse, multivariante.<br>
 
-<b>Rezultatet e Faza së Dytë</b><br>
+<b>Rezultatet e Fazës së Dytë</b><br>
 U kuptuan marrëdhëniet mes variablave dhe u identifikuan modele të rëndësishme që ndihmojnë në analizat dhe vizualizimet e mëtejshme.
 
 
@@ -70,6 +70,41 @@ U kuptuan marrëdhëniet mes variablave dhe u identifikuan modele të rëndësis
 
 Në fazën e dytë të projektit, u fokusua në analizimin dhe pastrimin më të thellë të të dhënave. Fillimisht, u realizua detektimi i përjashtuesve (outliers), duke përdorur metoda statistikore për të identifikuar dhe eliminuar vlerat që mund të dëmtonin analizën. Më pas, u mënjanuan zbulimet jo të sakta dhe u trajtuan të dhënat që mund të kishin ndikim negativ në modelet analitike. U realizua eksplorimi i të dhënave përmes statistika përmbledhëse dhe analize multivariante për të kuptuar më mirë marrëdhëniet ndërmjet variablave dhe për të identifikuar mundësi të ndryshimeve dhe modeleve të rëndësishme. 
 
+### Kontrolli i të Dhënave të Humbura
+
+Kjo pjesë përfshin përdorimin e një heatmap për të identifikuar vlerat e humbura në DataFrame. Heatmap-i vizualizon mungesat e të dhënave, duke ndihmuar në identifikimin e kolonave që kanë probleme me të dhënat e plota.
+![image](https://github.com/user-attachments/assets/a8d0f572-177e-43e5-a256-67b586853b6a)
+![image](https://github.com/user-attachments/assets/ac3916d2-d401-4c05-a7a1-17752a662a25)
+
+### Vizualizimi i Shpërndarjes
+
+Këtu, krijohen grafikë të tipit KDE (Kernel Density Estimate) dhe box plot për të analizuar shpërndarjen e kolonave numerike vizualizime ndihmojnë në kuptimin e shpërndarjes, asimetrisë dhe pranishmërisë së outlier-eve në të dhëna.
+![image](https://github.com/user-attachments/assets/65367391-fd56-49b0-a9e4-05970c7e96b3)
+![image](https://github.com/user-attachments/assets/cfb83fd9-b652-440d-991e-7faddd64d08a)
+![image](https://github.com/user-attachments/assets/a878c527-f663-4807-af2c-1e1ee57d349b)
+![image](https://github.com/user-attachments/assets/78b92028-e0cb-45cc-b0b6-5791517b26aa)
+![image](https://github.com/user-attachments/assets/6857079a-4800-4866-9981-04bb6aca1a40)
+![image](https://github.com/user-attachments/assets/ce9772b8-e67b-4101-baab-35fff3138aca)
+![image](https://github.com/user-attachments/assets/71256329-82a7-4488-8402-8886d8577b47)
+![image](https://github.com/user-attachments/assets/94381574-b442-4bed-b970-2390d93f38d9)
+![image](https://github.com/user-attachments/assets/2e4fd0c9-cff4-47b4-bc21-8c92d7254fdb)
+![image](https://github.com/user-attachments/assets/edb9c058-0295-435b-a297-757b9804ff19)
+![image](https://github.com/user-attachments/assets/391807e9-4565-438b-9644-0051f4df4c7e)
+
+### Outliers (Të Jashtme)
+
+Kjo pjesë e dokumentit përqendrohet në identifikimin dhe analizimin e outlier-eve në të dhënat e përfshira në DataFrame. Outlier-ët janë vlera që ndahen ndjeshëm nga shumica e të dhënave dhe mund të ndikojnë në rezultatet e analizave statistikore.
+
+### Identifikimi i Outlier-eve
+
+Përdoren grafikët box plot dhe KDE për të identifikuar outlier-et në kolonat numerike si LoanAmount dhe ApplicantIncome. Këto vizualizime ndihmojnë në identifikimin e vlerave që janë shumë më të larta ose më të ulëta se shumica e të dhënave.
+![image](https://github.com/user-attachments/assets/3be18974-8aa0-4fbb-b6d3-26360bd85dff)
+
+### Analiza para dhe pas pastrimit
+
+Dokumenti përfshin një krahasim të shpërndarjes së të dhënave para dhe pas pastrimit të outlier-eve. Kjo ndihmon në vlerësimin e ndikimit të outlier-eve në analizat e të dhënave dhe në rezultatet përfundimtare.
+
+![image](https://github.com/user-attachments/assets/766564da-a715-4673-91f7-647d9893cdf1)
 
 <h2>Përdorimi</h2>
 git clone https://github.com/kaltrinabaliu/PergatitjaDheVizualizimiiTeDhenave.git<br>
